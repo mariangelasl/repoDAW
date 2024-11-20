@@ -1,6 +1,14 @@
-body{background-color: #808080FF;} 
+body{background-color: #4682B4FF;} 
 
 h1{text-align:center;
   background-color: #30B037}
 
-ul{list-style: square;}
+ul{list-style: none;
+  width: 180px;
+  border: 1px solid #000000;
+  }
+
+li{float:left;
+   display:block;
+   background-color: #808080FF;
+  }
